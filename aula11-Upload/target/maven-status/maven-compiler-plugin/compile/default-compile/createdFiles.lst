@@ -1,0 +1,5 @@
+com\example\dto\PessoaDTO.class
+com\example\aula10\MeuController.class
+com\example\aula10\Aula10CRUD.class
+com\example\aula10\ConnectionFactory.class
+com\example\dao\PessoaDAO.class
